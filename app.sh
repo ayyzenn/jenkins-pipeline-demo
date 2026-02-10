@@ -1,5 +1,6 @@
-#!/bin/bash
-echo "Hello from GitHub + Jenkins Pipeline"
+#!/bin/sh
+
+echo "Hello from Docker container"
 uname -a
 date
 
